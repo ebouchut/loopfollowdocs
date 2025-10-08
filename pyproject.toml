@@ -1,0 +1,14 @@
+[project]
+name = "loopfollowdocs"
+version = "0.1.0"
+requires-python = ">=3.9"
+description = "Documentation of LoopFollow, a companion for Loop and Trio AID systems for iOS."
+readme = "README.md"
+license = {text = "MIT"}
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://loopfollowdocs.org/"
+Documentation = "https://loopfollowdocs.org/"
+Repository = "https://github.com/loopandlearn/loopfollowdocs"
+Issues = "https://github.com/loopandlearn/loopfollowdocs/issues"
